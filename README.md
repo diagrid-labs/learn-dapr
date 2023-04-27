@@ -20,8 +20,8 @@ Use the following resources to teach Dapr:
 
 - 🚦 [Dapr workshop by @EdwinVW](https://github.com/EdwinVW/dapr-workshop)
 
-
 ## Join the Dapr community
 
 - 💬 [Dapr Discord](http://bit.ly/dapr-discord)
+- 🐦 [Dapr Twitter](https://twitter.com/daprdev)
 - 📞 [Biweekly Dapr OSS Community Calls](https://github.com/dapr/community#community-meetings)
