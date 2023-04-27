@@ -26,7 +26,7 @@ Use the following resources to teach Dapr:
 - 🖼️ [Dapr logos @ CNCF](https://github.com/cncf/artwork/blob/master/examples/incubating.md#dapr-logos)
 - 🚦 [Dapr workshop by @EdwinVW](https://github.com/EdwinVW/dapr-workshop)
 
-> Ping [MarcDuiker](@marcduiker) on [Dapr Discord](http://bit.ly/dapr-discord) if you're about to give an in -person Dapr workshop. He can provide you with Dapr swag.
+> Ping [MarcDuiker](https://github.com/marcduiker) on [Dapr Discord](http://bit.ly/dapr-discord) if you're about to give an in -person Dapr workshop. He can provide you with Dapr swag.
 
 ## 🤗 Join the Dapr community
 
