@@ -1,5 +1,7 @@
 # Learn Dapr 🎩
 
+[![Check Links](https://github.com/diagrid-labs/learn-dapr/actions/workflows/links.yml/badge.svg)](https://github.com/diagrid-labs/learn-dapr/actions/workflows/links.yml)
+
 This repository contains a curated set of resources to learn about, and teach about Dapr.
 
 > Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. It speeds up microservice development by providing a common set of building block APIs that can be invoked directly with HTTP/gRPC or one of the many Dapr client SDKs.
