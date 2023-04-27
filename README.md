@@ -23,8 +23,10 @@ Use the following resources to learn about Dapr:
 Use the following resources to teach Dapr:
 
 - 📢 [Dapr presentation deck](https://docs.dapr.io/contributing/presentations/)
+- 🖼️ [Dapr logos @ CNCF](https://github.com/cncf/artwork/blob/master/examples/incubating.md#dapr-logos)
 - 🚦 [Dapr workshop by @EdwinVW](https://github.com/EdwinVW/dapr-workshop)
-- 🖼️ [Dapr logos](https://github.com/cncf/artwork/blob/master/examples/incubating.md#dapr-logos)
+
+> Ping [MarcDuiker](@marcduiker) on [Dapr Discord](http://bit.ly/dapr-discord) if you're about to give an in -person Dapr workshop. He can provide you with Dapr swag.
 
 ## 🤗 Join the Dapr community
 
