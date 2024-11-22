@@ -14,6 +14,7 @@ Use the following resources to learn about Dapr:
 
 - 📖 [Dapr docs](https://docs.dapr.io/)
 - 🏎️ [Dapr quickstarts](https://docs.dapr.io/getting-started/quickstarts/)
+- 🧑‍💻 [Dapr Workshop by Diagrid](https://github.com/diagrid-labs/dapr-workshop)
 - 🧑‍💻 [Dapr org on GitHub](https://github.com/dapr)
 - 🎥[Dapr YouTube channel](http://bit.ly/dapr-youtube)
 - 📘 [Dapr for .NET developers (free eBook)](https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/getting-started)
@@ -24,12 +25,14 @@ Use the following resources to teach Dapr:
 
 - 📢 [Dapr presentation deck](https://docs.dapr.io/contributing/presentations/)
 - 🖼️ [Dapr logos @ CNCF](https://github.com/cncf/artwork/blob/master/examples/incubating.md#dapr-logos)
+- 🧑‍💻 [Dapr Workshop by Diagrid](https://github.com/diagrid-labs/dapr-workshop)
 - 🚦 [Dapr workshop by @EdwinVW](https://github.com/EdwinVW/dapr-workshop)
 
-> Ping [MarcDuiker](https://github.com/marcduiker) on [Dapr Discord](http://bit.ly/dapr-discord) if you're about to give an in -person Dapr workshop. He can provide you with Dapr swag.
+> Ping [Marc Duiker](https://github.com/marcduiker) on [Dapr Discord](http://bit.ly/dapr-discord) if you're about to give an in-person Dapr workshop. He can provide you with Dapr swag.
 
 ## 🤗 Join the Dapr community
 
 - 💬 [Dapr Discord](http://bit.ly/dapr-discord)
 - 🐦 [Dapr Twitter](https://twitter.com/daprdev)
-- 📞 [Biweekly Dapr OSS Community Calls](https://github.com/dapr/community#community-meetings)
+- 🦋 [Dapr Bluesky](https://bsky.app/profile/daprdev.bsky.social)
+- 📞 [Biweekly Dapr OSS Community Calls](https://www.youtube.com/@DaprDev/streams)
