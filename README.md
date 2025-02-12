@@ -12,6 +12,7 @@ This repository contains a curated set of resources to learn about, and teach ab
 
 Use the following resources to learn about Dapr:
 
+- 🧑‍🎓 [Dapr University by Diagrid](https://www.diagrid.io/dapr-university)
 - 📖 [Dapr docs](https://docs.dapr.io/)
 - 🏎️ [Dapr quickstarts](https://docs.dapr.io/getting-started/quickstarts/)
 - 🧑‍💻 [Dapr Workshop by Diagrid](https://github.com/diagrid-labs/dapr-workshop)
